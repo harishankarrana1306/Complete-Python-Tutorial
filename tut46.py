@@ -1,4 +1,4 @@
-# OS module
+# OS module  ---creating folders
 #  execution of program, copy from one folder to another, Sorting
 
 # import os
@@ -22,3 +22,4 @@ folders=os.listdir("data")
 for fold in folders:
     print(os.listdir(f"data/{fold}"))
     # folder ke saath saath folder ke ander jitni bhi cheeze rahengi sab print ho jayengi
+
