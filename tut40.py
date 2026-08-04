@@ -1,8 +1,8 @@
 # Secret Code Language
 # tRANSLATE NORMAL ENGLIGH into Secret Code Language
 
-# If the word contains atleast 3 char -- remove the first letter and append it to the end
-# Now append three random characters at the starting and the end
+# 1. If the word contains atleast 3 char -- remove the first letter and append it to the end
+# 2. Now append three random characters at the starting and the end
 # else:
 #    Simply reverse the String 
 # 
@@ -11,7 +11,10 @@
 #   else:
 #      Remove three random characters from start and the end.Now remove the last letter and append it to the begining
 
-#of harry --- fo   qwearryhrew   3-3 random at the start & end
+
+# coding :
+# of harry --- fo   qwearryhrew   3-3 random at the start & end
 
 
-# decode --  of     arryh ---- harry
+# decode -- 
+#  of     arryh ---- harry
