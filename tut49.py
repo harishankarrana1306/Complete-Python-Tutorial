@@ -12,7 +12,7 @@
 # Writting to a file
 
 
-# f = open('myfile2.txt','a')  # use a inplace of w for append
+# f = open('myfile2.txt','a')  # use 'a' in place of w for append
 # f.write("Hello world\n")
 # f.close()
 
